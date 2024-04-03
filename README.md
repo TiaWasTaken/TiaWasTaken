@@ -18,7 +18,7 @@
   <a href="mailto:arganetto.mattia@gmail.com">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="discordapp.com/users/heilramses">
+  <a href="discordapp.com/users/heilramses#9100">
     <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord" width="40" height="40"/>
   </a>
 </p>
