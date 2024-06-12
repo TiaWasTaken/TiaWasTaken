@@ -1,6 +1,6 @@
 <h1 align="center"><b>Welcome to my profile. I'm Mattia 👋</b></h1>
 
-<h3 align="center"><b>I specialize in customize Shopify Themes and create Custom Liquids.</b></h3>
+<h3 align="center"><b>I specialize in customize Shopify Themes and create Custom Liquids. (But I always try to learn new things)</b></h3>
 
 <h4 align="center"><b>Tools & Languages:</b></h4>
 
