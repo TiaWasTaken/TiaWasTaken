@@ -19,9 +19,6 @@
   <a href="mailto:arganetto.mattia@gmail.com">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://discord.gg/BQdc7nNA">
-    <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord: HeilRamses#9100" width="40" height="40"/>
-  </a>
 </p>
 
 <p align="center"><b>Feel free to explore my repositories and don't hesitate to reach out if you find something that sparks your interest!</b></p>
